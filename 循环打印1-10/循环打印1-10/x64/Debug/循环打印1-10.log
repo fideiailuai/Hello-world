@@ -1,0 +1,17 @@
+﻿  源.cpp
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(13,4): error C2064: 项不会计算为接受 0 个参数的函数
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(13,12): error C2059: 语法错误:“;”
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(17,4): error C2064: 项不会计算为接受 0 个参数的函数
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(17,10): error C2059: 语法错误:“;”
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(14,3): warning C4060: switch 语句没有包含“case”或“default”标签
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(19,2): error C2059: 语法错误:“}”
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(19,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(21,1): error C2059: 语法错误:“}”
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源.cpp(21,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  源1.cpp
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源1.cpp(4,19): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源1.cpp(5,2): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源1.cpp(6,3): error C3861: “printf”: 找不到标识符
+  源2.cpp
+C:\Users\Golsh\OneDrive\文档\C语言\循环打印1-10\循环打印1-10\源2.cpp(6,3): error C3861: “printf”: 找不到标识符
+  正在生成代码...
